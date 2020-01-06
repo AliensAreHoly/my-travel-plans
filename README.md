@@ -7,3 +7,4 @@ Egypt
 Thailand
 Burma
 Vietnam
+EAST ASIA
